@@ -70,7 +70,7 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 * Vente d'items contre de l'argent réel ou contre des gemmes.
 * Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
 * Le tp-kill est interdit ainsi que tout kill en dehors de zone pvp. Il est interdit de usebug bloc à MarineFord.
-* Tout commerce de prime/points classement colisée est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
+* Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
 * La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
 * Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
 

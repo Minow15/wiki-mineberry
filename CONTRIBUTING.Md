@@ -53,7 +53,7 @@ Exemple : `git checkout -b ajout-guide-capture`
 ### <mark style="color:blue;">4. Modifier le Wiki</mark>
 
 * Utilisez Visual Studio Code pour éditer les fichiers markdown (`.md`).
-* Vous pouvez également créer de nouveaux fichiers, par exemple `comment-creer-ma-box.md`.
+* Vous pouvez également créer de nouveaux fichiers, par exemple `comment-jouer.md`.
 
 Exemple de structure markdown simple :
 
@@ -76,7 +76,7 @@ Dans votre terminal, ajoutez et validez vos changements :
 
 ```bash
 git add .
-git commit -m "Ajout du guide sur les métiers"
+git commit -m "Ajout du guide sur les fruits du démon"
 ```
 
 ### <mark style="color:blue;">6. Envoyer votre contribution</mark>

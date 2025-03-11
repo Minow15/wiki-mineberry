@@ -33,27 +33,27 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Bulle :** \
-&#x20;        ** -** <mark style="color:yellow;">**Kuma**</mark>** :** Quantité -> <mark style="color:yellow;">**+8'500**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Kuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+8'500**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Sentomaru**</mark>** :** Quantité -> <mark style="color:yellow;">**+1'500**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Sentomaru**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+1'500**</mark>\
 &#x20;                                      Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Marine**</mark>** :** Quantité -> <mark style="color:yellow;">**+30**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Marine**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+30**</mark>\
 &#x20;                             Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Boulon** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Kuma**</mark>** :** Quantité -> <mark style="color:yellow;">**x5**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Kuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x5**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Sentomaru**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Sentomaru**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                      Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Marine**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Marine**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                             Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Kuma**</mark>** :** Quantité -> <mark style="color:yellow;">**+13'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Kuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+13'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry de Platine** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Kuma**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Kuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>
 
 ## <mark style="color:orange;">Caisse Sabaody</mark>
@@ -90,7 +90,7 @@ La <mark style="color:yellow;">**Caisse Premium Sabaody**</mark> s'obtient en l'
 |       <mark style="color:yellow;">**Booster Métiers**</mark>      |      **10%**     |
 |               **x2 Fragment d'armure de SuperNovae**              |      **3%**      |
 |           <mark style="color:blue;">**Rayleigh**</mark>           |      **5%**      |
-|      <mark style="color:blue;">**Fruit de la Lumière**</mark>     |      2**%**      |
+|      <mark style="color:blue;">**Fruit de la Lumière**</mark>     |    &#x32;**%**   |
 
 {% hint style="warning" %}
 L'ouverture simultanée de trois coffres est réservée aux détenteurs de l'abonnement premium.

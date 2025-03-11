@@ -33,27 +33,27 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Bois d'Adam :** \
-&#x20;        ** -** <mark style="color:yellow;">**Lucci**</mark>** :** Quantité -> <mark style="color:yellow;">**+6'500**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+6'500**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Kaku**</mark>** :** Quantité -> <mark style="color:yellow;">**+1'150**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Kaku**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+1'150**</mark>\
 &#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Agent CP9**</mark>** :** Quantité -> <mark style="color:yellow;">**+20**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Agent CP9**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+20**</mark>\
 &#x20;                                     Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Masque de CP9** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Lucci**</mark>** :** Quantité -> <mark style="color:yellow;">**x4**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x4**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Kaku**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Kaku**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Agent CP9**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Agent CP9**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                     Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Lucci**</mark>** :** Quantité -> <mark style="color:yellow;">**+10'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+10'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry d'Or** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Lucci**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
 
 ## <mark style="color:orange;">Caisse Water Seven</mark>

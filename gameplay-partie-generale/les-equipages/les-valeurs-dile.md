@@ -38,7 +38,7 @@ Pour déposer des <mark style="color:yellow;">**objets de valeur**</mark> dans v
 
 Un menu s'ouvrira, offrant deux options distinctes :
 
-* Le <mark style="color:yellow;">**premier bouton**</mark> vous permettra d'accéder à la <mark style="color:yellow;">**liste des objets**</mark>** actuellement **<mark style="color:yellow;">**présents**</mark> dans votre <mark style="color:yellow;">**banque de valeurs d'île**</mark>.
+* Le <mark style="color:yellow;">**premier bouton**</mark> vous permettra d'accéder à la <mark style="color:yellow;">**liste des objets**</mark>**&#x20;actuellement&#x20;**<mark style="color:yellow;">**présents**</mark> dans votre <mark style="color:yellow;">**banque de valeurs d'île**</mark>.
 * Le <mark style="color:yellow;">**second**</mark> vous redirigera vers <mark style="color:yellow;">**`/is values`**</mark> pour consulter les <mark style="color:yellow;">**différents objets disponibles**</mark> permettant d'<mark style="color:yellow;">**augmenter la valeur de votre île**</mark>.&#x20;
 
 Si vous souhaitez <mark style="color:yellow;">**déplacer votre coffre au trésor**</mark>, c'est possible via la commande <mark style="color:yellow;">**`/is chestmove`**</mark>.

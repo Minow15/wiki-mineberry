@@ -23,11 +23,11 @@ Explorez le vaste <mark style="color:yellow;">**open world**</mark>, utilisez le
 
 Une fois le menu <mark style="color:yellow;">**`/aventure`**</mark> ouvert, vous pouvez <mark style="color:yellow;">**accéder**</mark> à <mark style="color:yellow;">**différentes informations**</mark> en effectuant un <mark style="color:yellow;">**clic gauche**</mark> sur l'<mark style="color:yellow;">**île**</mark> en question.&#x20;
 
-<mark style="color:yellow;">**Taux de Drops**</mark>** :** Cette icône vous informe sur les taux de drops des différents loots disponibles sur l'île.
+<mark style="color:yellow;">**Taux de Drops**</mark>**&#x20;:** Cette icône vous informe sur les taux de drops des différents loots disponibles sur l'île.
 
-<mark style="color:yellow;">**Succès**</mark>** :** La deuxième icône affiche les succès spécifiques à l'île, permettant aux joueurs de suivre leur progression.
+<mark style="color:yellow;">**Succès**</mark>**&#x20;:** La deuxième icône affiche les succès spécifiques à l'île, permettant aux joueurs de suivre leur progression.
 
-<mark style="color:yellow;">**Shop Spécial**</mark>** :** La troisième icône donne accès à un shop spécial où vous pouvez acheter et vendre des articles qui ne sont pas disponibles dans le shop basique.
+<mark style="color:yellow;">**Shop Spécial**</mark>**&#x20;:** La troisième icône donne accès à un shop spécial où vous pouvez acheter et vendre des articles qui ne sont pas disponibles dans le shop basique.
 
 <mark style="color:yellow;">**Recycleur d'Objets**</mark> **:** La dernière icône permet d'échanger les objets obtenus dans les caisses de l'île contre de l'argent.
 

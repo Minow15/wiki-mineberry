@@ -33,31 +33,31 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Albâtre :** \
-&#x20;        ** -** <mark style="color:yellow;">**Crocodile**</mark>** :** Quantité -> <mark style="color:yellow;">**+3'800**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Crocodile**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+3'800**</mark>\
 &#x20;                                  Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Mister One**</mark>** :** Quantité -> <mark style="color:yellow;">**+400**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Mister One**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+400**</mark>\
 &#x20;                                     Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Miss Monday**</mark>** :** Quantité -> <mark style="color:yellow;">**+25**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Miss Monday**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+25**</mark>\
 &#x20;                                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>** :** Quantité -> <mark style="color:yellow;">**+12**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+12**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Cigare** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Crocodile**</mark>** :** Quantité -> <mark style="color:yellow;">**x3**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Crocodile**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x3**</mark>\
 &#x20;                                  Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Mister One**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Mister One**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                     Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Miss Monday**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Miss Monday**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Crocodile**</mark>** :** Quantité -> <mark style="color:yellow;">**+6'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Crocodile**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+6'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                                  Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry d'Argent** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Crocodile**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Crocodile**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                  Chance -> <mark style="color:yellow;">**100%**</mark>
 
 ## <mark style="color:orange;">Caisse Alabasta</mark>
@@ -114,7 +114,7 @@ Vous pourrez retrouver dans <mark style="color:yellow;">**Alabasta**</mark> une 
 
 Explorez le <mark style="color:yellow;">**désert**</mark> qui entoure <mark style="color:yellow;">**Alabasta**</mark> à la recherche de <mark style="color:yellow;">**blocs suspects**</mark> dotés d'une <mark style="color:yellow;">**apparence craquelée**</mark>. Équipez-vous d'une <mark style="color:yellow;">**brosse d'archéologie**</mark> et déterrez des <mark style="color:yellow;">**trésors**</mark> <mark style="color:yellow;">**cachés**</mark> sous la terre aride.
 
-#### <mark style="color:orange;">**Trésors Découvrables**</mark>** :**
+#### <mark style="color:orange;">**Trésors Découvrables**</mark>**&#x20;:**
 
 * <mark style="color:yellow;">**Tissu Ancien**</mark> (20%)
 * <mark style="color:yellow;">**Morceau de Pot**</mark> (20%)

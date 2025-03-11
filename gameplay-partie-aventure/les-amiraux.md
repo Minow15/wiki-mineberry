@@ -14,9 +14,9 @@ Obtenez la <mark style="color:yellow;">**chance unique**</mark> de les combattre
 
 Pour invoquer les <mark style="color:yellow;">**Amiraux**</mark>, vous aurez besoin des <mark style="color:yellow;">**éléments**</mark> suivants, bien que le nombre requis varie pour <mark style="color:yellow;">**chaque**</mark> Amiral : &#x20;
 
-* <mark style="color:yellow;">**Cœurs de Mers**</mark>** :** Obtenez ces items en vainquant le boss de Baratie. Ils sont essentiels pour faire apparaître les Amiraux.
-* <mark style="color:yellow;">**Fragments de Ponéglyphes**</mark>** :** Trouvez ces fragments en interagissant avec les petites pierres tombales qui apparaissent aléatoirement sur les îles aventure. Chaque interaction garantit un fragment.
-* <mark style="color:yellow;">**Fragments d'Armure d'Amiral**</mark>** :** Ces fragments peuvent être récupérés dans les caisses de Water Seven.
+* <mark style="color:yellow;">**Cœurs de Mers**</mark>**&#x20;:** Obtenez ces items en vainquant le boss de Baratie. Ils sont essentiels pour faire apparaître les Amiraux.
+* <mark style="color:yellow;">**Fragments de Ponéglyphes**</mark>**&#x20;:** Trouvez ces fragments en interagissant avec les petites pierres tombales qui apparaissent aléatoirement sur les îles aventure. Chaque interaction garantit un fragment.
+* <mark style="color:yellow;">**Fragments d'Armure d'Amiral**</mark>**&#x20;:** Ces fragments peuvent être récupérés dans les caisses de Water Seven.
 
 ## <mark style="color:orange;">Aff</mark><mark style="color:orange;">**rontez les Amiraux**</mark>
 
@@ -26,9 +26,9 @@ Une fois que vous avez réuni les <mark style="color:yellow;">**éléments néce
 
 Après avoir <mark style="color:yellow;">**triomphé**</mark> d'un Amiral, vous serez <mark style="color:yellow;">**récompensé**</mark> en fonction de celui que vous avez vaincu. Les <mark style="color:yellow;">**récompenses**</mark> incluent :
 
-* <mark style="color:yellow;">**Fruit du Démon de l'Amiral**</mark>** :** Un drop exclusif permettant d'accéder à des pouvoirs spéciaux.
-* <mark style="color:yellow;">**Cristal de Statistiques Légendaires**</mark>** :** Améliorez vos statistiques avec ces cristaux rares et puissants.
-* <mark style="color:yellow;">**Argent**</mark>** :** Une récompense en Berrys pour vos exploits.
+* <mark style="color:yellow;">**Fruit du Démon de l'Amiral**</mark>**&#x20;:** Un drop exclusif permettant d'accéder à des pouvoirs spéciaux.
+* <mark style="color:yellow;">**Cristal de Statistiques Légendaires**</mark>**&#x20;:** Améliorez vos statistiques avec ces cristaux rares et puissants.
+* <mark style="color:yellow;">**Argent**</mark>**&#x20;:** Une récompense en Berrys pour vos exploits.
 
 ## <mark style="color:orange;">Remarques Importantes</mark>
 

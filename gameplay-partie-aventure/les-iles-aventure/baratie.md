@@ -40,9 +40,9 @@ Pour découvrir les <mark style="color:yellow;">**recettes exclusives**</mark> d
 
 <mark style="color:yellow;">**Ingrédients et Étapes**</mark> : Chaque recette listera les ingrédients nécessaires et les étapes à suivre. Les ingrédients s'afficheront clairement, vous permettant de vérifier ce dont vous avez besoin.&#x20;
 
-<mark style="color:yellow;">**Vérifiez Votre Inventaire**</mark>** :** Avant de commencer à assembler la recette, assurez-vous d'avoir les éléments nécessaires dans votre inventaire. Les objets requis doivent être présents pour pouvoir sélectionner la recette.
+<mark style="color:yellow;">**Vérifiez Votre Inventaire**</mark>**&#x20;:** Avant de commencer à assembler la recette, assurez-vous d'avoir les éléments nécessaires dans votre inventaire. Les objets requis doivent être présents pour pouvoir sélectionner la recette.
 
-<mark style="color:yellow;">**Pré-cuisson des Poissons**</mark>** :** Pour les recettes impliquant des poissons, notez que ces derniers doivent d'abord être cuits. Placez le poisson dans l'interface des plaques de cuisson et attendez quelques instants pour qu'il soit cuit et prêt à être utilisé dans vos recettes.
+<mark style="color:yellow;">**Pré-cuisson des Poissons**</mark>**&#x20;:** Pour les recettes impliquant des poissons, notez que ces derniers doivent d'abord être cuits. Placez le poisson dans l'interface des plaques de cuisson et attendez quelques instants pour qu'il soit cuit et prêt à être utilisé dans vos recettes.
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Aperçu de l'interface de Cuisson</p></figcaption></figure>
 
@@ -50,25 +50,25 @@ Pour découvrir les <mark style="color:yellow;">**recettes exclusives**</mark> d
 
 ### <mark style="color:orange;">Recettes</mark>
 
-<mark style="color:yellow;">**Lionfish Temaki**</mark>** :**
+<mark style="color:yellow;">**Lionfish Temaki**</mark>**&#x20;:**
 
 * **Poisson-lion cuit**
 * **Rosier**
 * **Carotte**
 
-<mark style="color:blue;">**Bette Kabuki**</mark>** :**  &#x20;
+<mark style="color:blue;">**Bette Kabuki**</mark>**&#x20;:**  &#x20;
 
 * **Poisson Combattant cuit**
 * **Blé**
 * **Patate**
 
-<mark style="color:purple;">**Capitaine Homard**</mark>** :**  &#x20;
+<mark style="color:purple;">**Capitaine Homard**</mark>**&#x20;:**  &#x20;
 
 * **Homard rouge cuit**
 * **Fiole d'eau**&#x20;
 * **Betterave**
 
-<mark style="color:yellow;">**Tako Tako Surprise**</mark>** :** &#x20;
+<mark style="color:yellow;">**Tako Tako Surprise**</mark>**&#x20;:** &#x20;
 
 * **Pieuvre cuite**
 * **Champignon marron**

@@ -31,23 +31,23 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Ferraille** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>** :** Quantité -> <mark style="color:yellow;">**+1'900**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+1'900**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Bandit**</mark>** :** Quantité -> <mark style="color:yellow;">**+9**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Bandit**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+9**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Bouteille de Saké** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>** :** Quantité -> <mark style="color:yellow;">**x2**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x2**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Bandit**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Bandit**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**4%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>** :** Quantité -> <mark style="color:yellow;">**+3'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+3'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry de Bronze** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>
 
 ## <mark style="color:orange;">Caisse Fuchsia</mark>

@@ -33,27 +33,27 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Ombre :** \
-&#x20;        ** -** <mark style="color:yellow;">**Moria**</mark>** :** Quantité -> <mark style="color:yellow;">**+7'500**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Moria**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+7'500**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Grand Zombie**</mark>** :** Quantité -> <mark style="color:yellow;">**+1'400**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Grand Zombie**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+1'400**</mark>\
 &#x20;                                           Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Zombie**</mark>** :** Quantité -> <mark style="color:yellow;">**+20**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Zombie**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+20**</mark>\
 &#x20;                              Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Sac de sel** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Moria**</mark>** :** Quantité -> <mark style="color:yellow;">**x4**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Moria**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x4**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Grand Zombie**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Grand Zombie**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                           Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Zombie**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Zombie**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                              Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Moria**</mark>** :** Quantité -> <mark style="color:yellow;">**+12'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Moria**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+12'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry's** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Moria**</mark>** :** Berry de Bronze -> <mark style="color:yellow;">**x2**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Moria**</mark>**&#x20;:** Berry de Bronze -> <mark style="color:yellow;">**x2**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;                           Berry d'Or -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>

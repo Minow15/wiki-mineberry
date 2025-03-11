@@ -31,27 +31,27 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Extols :** \
-&#x20;        ** -** <mark style="color:yellow;">**Ener**</mark>** :** Quantité -> <mark style="color:yellow;">**+5'500**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Ener**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+5'500**</mark>\
 &#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Gedatsu**</mark>** :** Quantité -> <mark style="color:yellow;">**+900**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Gedatsu**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+900**</mark>\
 &#x20;                                Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Soldats des mers**</mark>** :** Quantité -> <mark style="color:yellow;">**+15**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Soldats des mers**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+15**</mark>\
 &#x20;                                                 Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Bijou doré** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Ener**</mark>** :** Quantité -> <mark style="color:yellow;">**x3**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Ener**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x3**</mark>\
 &#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Gedatsu**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Gedatsu**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Soldats des mers**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Soldats des mers**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                                 Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Ener**</mark>** :** Quantité -> <mark style="color:yellow;">**+9'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Ener**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+9'000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry's** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Ener**</mark>** :** Berry de Bronze -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Ener**</mark>**&#x20;:** Berry de Bronze -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                        Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;                        Berry d'Argent -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                        Chance -> <mark style="color:yellow;">**100%**</mark>

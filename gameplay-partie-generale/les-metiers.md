@@ -34,9 +34,9 @@ N'oubliez pas le <mark style="color:yellow;">**`/jobs claim`**</mark> pour récu
 Il est crucial de comprendre les <mark style="color:yellow;">**différents types de boosts**</mark> de métier pour maximiser vos performances. Voici une explication détaillée :
 
 * <mark style="color:yellow;">**Global (Certains Pets et Certaines Potions)**</mark> **:** Affecte tous les aspects de vos métiers (XP et argent).
-* <mark style="color:yellow;">**Jobs (Certains Pets et Certaines Potions)**</mark>** :** Cible spécifiquement un métier pour améliorer l'XP et l'argent gagnés.
-* <mark style="color:yellow;">**XP (Potion de Savoir)**</mark>** :** Augmente l'XP gagnée pour un métier spécifique.
-* <mark style="color:yellow;">**Argent (Potion de Richesse)**</mark>** :** Augmente l'argent gagné pour un métier spécifique.
+* <mark style="color:yellow;">**Jobs (Certains Pets et Certaines Potions)**</mark>**&#x20;:** Cible spécifiquement un métier pour améliorer l'XP et l'argent gagnés.
+* <mark style="color:yellow;">**XP (Potion de Savoir)**</mark>**&#x20;:** Augmente l'XP gagnée pour un métier spécifique.
+* <mark style="color:yellow;">**Argent (Potion de Richesse)**</mark>**&#x20;:** Augmente l'argent gagné pour un métier spécifique.
 
 ### <mark style="color:orange;">Points Importants</mark>
 

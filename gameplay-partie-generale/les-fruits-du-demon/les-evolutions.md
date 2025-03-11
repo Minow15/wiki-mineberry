@@ -12,7 +12,7 @@ Les fruits du démon peuvent être <mark style="color:yellow;">**améliorés**</
 
 ### <mark style="color:orange;">Upgrade Niveau 2</mark>&#x20;
 
-* <mark style="color:yellow;">**Ressources nécessaires**</mark>** :**
+* <mark style="color:yellow;">**Ressources nécessaires**</mark>**&#x20;:**
   * **Money**
   * **Rumble Balls (dropés par les mobs sur les îles d'aventure)**
   * **Essence Démoniaque (dropée par les boss sur les îles d'aventure)**
@@ -20,7 +20,7 @@ Les fruits du démon peuvent être <mark style="color:yellow;">**améliorés**</
 
 ### <mark style="color:orange;">Éveil</mark>
 
-<mark style="color:yellow;">**Ressources nécessaires**</mark>** :**
+<mark style="color:yellow;">**Ressources nécessaires**</mark>**&#x20;:**
 
 * **Money**
 * **Essence Démoniaque**

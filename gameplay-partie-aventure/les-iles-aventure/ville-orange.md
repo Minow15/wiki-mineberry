@@ -31,27 +31,27 @@ Profitez de cette île pour renforcer votre personnage et progresser dans votre 
 ### <mark style="color:orange;">Taux de Drops</mark>
 
 **Orange** [🍊](https://emojiterra.com/fr/mandarine/) **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Baggy**</mark>** :** Quantité -> <mark style="color:yellow;">**+2'800**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+2'800**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>** :** Quantité -> <mark style="color:yellow;">**+400**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
+&#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+400**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>** :** Quantité -> <mark style="color:yellow;">**+10**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
+&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+10**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Boulet de Baggy** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Baggy**</mark>** :** Quantité -> <mark style="color:yellow;">**x2**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x2**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>** :** Quantité -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**3%**</mark>
 
 **Prime** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Baggy**</mark>** :** Quantité -> <mark style="color:yellow;">**+4'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+4'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Berry de Bronze** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Baggy**</mark>** :** Quantité -> <mark style="color:yellow;">**x2**</mark>\
+&#x20;         **-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x2**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
 
 ## <mark style="color:orange;">Caisse Ville Orange</mark>

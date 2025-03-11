@@ -25,7 +25,7 @@ Voici les avantages du rang Esclave :&#x20;
 * Accès à <mark style="color:yellow;">**l'île Fuchsia**</mark>
 * Accès à <mark style="color:yellow;">**2 ventes dans l'Hôtel des Ventes**</mark>
 * Accès à <mark style="color:yellow;">**5 Coffres de Vente**</mark>
-* Accès à <mark style="color:yellow;">**1 home**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`/sethome [Nom]`**</mark>
+* Accès à <mark style="color:yellow;">**1 home**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/sethome [Nom]`**</mark>
 
 ### <mark style="color:yellow;">Recrue</mark>
 

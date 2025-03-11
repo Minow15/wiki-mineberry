@@ -7,6 +7,10 @@ description: >-
 
 # 🧷 Règlement In-Game
 
+Toute décision d’un membre du staff, basée sur un article du règlement ou non, devra être respectée.&#x20;
+
+Tout manquement au règlement est passible de sanctions suivant le niveau de non-respect de celui-ci.
+
 {% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
@@ -15,8 +19,9 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 ### <mark style="color:orange;">Article A : Responsabilités</mark>
 
-* Vous êtes entièrement responsable de votre compte Minecraft, ainsi que de votre mot de passe. Il est interdit de donner, de prêter ou de vendre son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une sanction adéquate sera mise en place.
-* Les pseudos et skins inappropriés (racistes, insultants, politiques, homophobie,...) ne sont pas acceptés.
+* Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
+* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés, de même pour le rename d’un pet.
+* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une île, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Nous ne prenons pas en charge les transferts de compte.
 * En cas de changement de pseudo, le site de vote ne vous distribuera plus de clés de votes, dans ce cas, veuillez ouvrir un ticket.
 
@@ -26,16 +31,19 @@ La marche à suivre quant à la création de ticket est disponible ici :telephon
 
 ### <mark style="color:orange;">Article B : Le Discord</mark>
 
-* MineBerry a pour moyen de communication primaire son serveur Discord.
-* Pour tout problème, question, suggestion, nous vous invitons à vous rendre sur cette plateforme.
-* Le support vocal ou écrit est disponible sur le serveur Discord.
-* Le règlement en jeu s’applique également sur le serveur Discord.
+* MineBerry a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
+* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
+* Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
+* **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
 
 ### <mark style="color:orange;">Article C : Les Remboursements</mark>
 
-* Pour tout remboursement, **merci d'ouvrir un ticket**.
-* Si vous apportez assez de **preuves**, un remboursement sera effectué.
-* Nous ne remboursons que les pertes liées à un souci du serveur et non de votre maladresse.
+* Les demandes de remboursement se font par tickets sur le serveur Discord.
+* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
+* Seules les pertes liées à un problème serveur sont remboursées.
+* Les pertes dues à une erreur d’inattention seront refusées (pertes dues au clearlag, jeter un item dans la lave, etc.).
+* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et tous vos "biens" en jeu sont gelés.
+* Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
 
 {% hint style="info" %}
 Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
@@ -43,7 +51,7 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 
 ### <mark style="color:orange;">Article D : Les Alliances d'îles</mark>
 
-* Toute forme d'alliance entre îles est interdite si elle a pour but de vous faire progresser dans le classement d'île (cela comprend les items de niveau d'ile du mois, l'argent, ainsi que tout autre item permettant de propulser une ile dans le classement). Tout abus sur ceci sera sanctionné.
+* Toute forme d'alliance entre îles est interdite si elle a pour but de vous faire progresser dans le classement d'île ou dans les avants-post (cela comprend les items de niveau d'ile du mois, l'argent, ainsi que tout autre item permettant de propulser une ile dans le classement). Tout abus sur ceci sera sanctionné.
 * Il est interdit d'utiliser une île tierce à but de contourner des limites (Hoppers, joueurs etc) sur votre île secondaire (avec l’utilisation d’un double compte par exemple)
 
 Toute alliance en pvp ou pour les Avants Postes sont **interdites** !
@@ -52,14 +60,14 @@ Toute alliance en pvp ou pour les Avants Postes sont **interdites** !
 
 ### <mark style="color:orange;">Article A : Interactions entre joueurs</mark>
 
-* Toutes les interactions entre joueurs doivent être effectuées dans le respect de l’autre.
-* Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdites.
-* Si les preuves sont suffisantes, le coupable sera sanctionné, et l'autre joueur sera remboursé.
+* Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
+* Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Il est interdit de récupérer du stuff ou des schématiques sur une île avant de la quitter sans accord préalable avec son chef.
+* Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
 {% hint style="info" %}
-Si les preuves sont suffisantes, le joueur fautif sera sanctionné et la victime remboursée.
+Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
 {% endhint %}
 
 ### <mark style="color:orange;">Article B : Actions interdites</mark>
@@ -69,21 +77,24 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 * Anti-Afk (circuit d'eau, Auto-Jump...)
 * Vente d'items contre de l'argent réel ou contre des gemmes.
 * Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
-* Le tp-kill est interdit ainsi que tout kill en dehors de zone pvp. Il est interdit de usebug bloc à MarineFord.
+* La construction obscène, raciste et discriminante.
+* Les jeux de hasard :&#x20;
+  * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le pourcentage d’obtention des lots.
+  * En cas de doute sur la fiabilité d'un casino, il est possible de demander à un Modérateur de le vérifier.
+* Le tp-kill est interdit ainsi que tout kill en dehors de zone pvp. Il est interdit de usebug bloc à MarineFord, zone AP ou zone duels.
 * Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
 * La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
 * Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
 
 ### <mark style="color:orange;">Article C : Le pvp, les duels et MarineFord</mark>
 
-* Interdiction de faire équipe avec d'autres joueurs.
-* La triche est évidemment interdite.
-* Vous ne devez pas camper dans un coin de la map.
-* II est interdit de focus un joueur.
-* La déconnexion et les téléportations en combat sont interdites.
+* Interdiction de faire équipe avec d'autres joueurs ou d'autres iles.
+* La triche est évidemment interdite, cf actions interdites.
+* Il est interdit de camper dans un coin de la map, ou dans des AP non pris.
+* La déconnexion et les téléportations en zone de combat sont interdites.
 * Interdiction de mentir sur son stuff pour un /duel
-* Interdiction d'utiliser tous moyens pour fuir un combat (enderpearls...)
-* Les usebugs sont interdits et le staff se réserve de choisir la durée de la sanction appropriée en fonction du usebug.
+* Interdiction d'utiliser tous moyens pour fuir un combat.
+* Les usebugs sont interdits et le staff se réserve le droit de choisir la durée de la sanction appropriée en fonction du usebug.
 * Le retour en zone sécurisée pendant un combat est sanctionné.
 * Interdiction d'utiliser quelconques commandes de téléportation (/back, /tpa, /tpahere...) pour aller ou retourner sur un lieu de combat
 * Il est interdit d'utiliser son fruit du démon hors zone pvp, pour tuer d'autres joueurs.
@@ -91,7 +102,9 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 ### <mark style="color:orange;">Article D : Utilisation de la Redstone</mark>
 
 * Les usines dites à "0 ticks" et les machines volantes sont interdites.
+* Les machines créant des lags, volontairement ou non, sont interdites.
 * Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
+* Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
 
 {% hint style="danger" %}
 Si votre système/machine ne respecte pas les règles du serveur il sera supprimé sans remboursement.
@@ -102,6 +115,7 @@ Si votre système/machine ne respecte pas les règles du serveur il sera supprim
 * Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :
   * Optifine, Minimap, ReplayMod (Uniquement pour Record)
   * Badlion / Lunar / Labymod
+    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
   * Schematica (Sans le mode printer) / Litematica
   * Toggle Sneak/Sprint
 
@@ -109,44 +123,42 @@ Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
 
 ### <mark style="color:orange;">Article F : Les Mods interdits</mark>
 
-* Voici une liste non exhaustive des mods interdits sur le serveur :
-  * XRay, Fly-Mod
-  * Schematica Printer
-  * Autoclick/autojump
-  * AutoTools
-  * FreeCam
+*   **Tous les mods donnant un avantage sur les autres joueurs :**
 
-### <mark style="color:orange;">Article G : Le PVP et les Events</mark>
+    * X-Ray / FreeCam
+    * Schematica Printer & Easy Place & copy/paste
+    * FlyMod
+    * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
+    * AutoTools
 
-* La déconnexion en combat est interdite.
-* Les usebugs sont interdits.
-* Le retour en zone sécurisée pendant un combat est sanctionné.
+    Cette liste n'est pas exhaustive, en cas de doute, merci de demander l'accord à un staff.
 
-### <mark style="color:orange;">Article H : Les Doubles-Comptes</mark>
+### <mark style="color:orange;">Article G : Les Doubles-Comptes</mark>
 
-* Les doubles-comptes sont limités à **1** par utilisateur.
-* Le double compte ne peut avoir d'utilité que pour être afk à des farms ou aux zones afk de votre faction.
-* Les doubles comptes pendant les events sont interdits. Ainsi, toute utilisation de second compte pour récupérer davantage de récompenses sera très sévèrement sanctionné.
-* Vous n'avez pas le droit de contourner une sanction d'une quelconque manière sous peine de recevoir l'ancienne sanction x2.
+* Les doubles-comptes sont limités à 1 par utilisateur.
+* Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
+* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner, mais il est interdit de boost son compte principal (Items / Argent / autres).
+* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 * Il est interdit de voter avec deux comptes différents pour le serveur.
 
 {% hint style="info" %}
 Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MineBerry en ticket.
 {% endhint %}
 
-### <mark style="color:orange;">Article I : L'AFK</mark>
+### <mark style="color:orange;">Article H : L'AFK</mark>
 
 * L'AFK est autorisé sur le serveur dans les zones prévues à cet effet.
-* Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci est passible de sanction.
-* Il est aussi interdit de contourner l'anti-afk, sous peine de sanction.
+* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
+* Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 * L’utilisation d’un minecart vous permettant de vous déplacer sans être derrière votre écran est également prohibée sur le serveur.
 
-### <mark style="color:orange;">Article J : Triche et Usebugs</mark>
+### <mark style="color:orange;">Article I : Triche et Usebugs</mark>
 
-* Les usebugs et la triche sont prohibés sur le serveur.
-* Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
-* Les macros, Auto-Sell, Auto-Click, Auto-Enchant et le changement de touche de clic sont interdits.
 * Il est interdit de vendre des décorations de ImpelDown.
+* Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
+* Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
+* **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
 * Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci est prohibé sur Mineberry.
 
 ## <mark style="color:orange;">Partie III : Le Chat</mark>
@@ -154,24 +166,26 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 ### <mark style="color:orange;">Article A : Les règles générales</mark>
 
 * Vous vous devez d'être irréprochable dans vos messages et votre comportement.
-* Toute contestation de sanction non recevable (ou abusive) entraînera le doublement (ou plus) de votre sanction.
-* La seule langue autorisée est le français.
-* Le chat est un espace de libre échange ou les discussions s'effectuent dans le respect.
+* Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
+* La modification de la typologie d’écriture n’est pas autorisée.
+* La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
 
 ### <mark style="color:orange;">Article B : Les types de messages</mark>
 
 Voici une liste non exhaustive des messages inappropriés sur le serveur :
 
-* Provocations, Insultes
-* Propos racistes, homophobes, religieux, politiques
+* Provocation, insultes envers une personne ou une communauté.
+* Propos graves : racisme, misogynie, homophobie, transphobie, politique.
+* Propos tendancieux (politiques, religieux, conflits géopolitiques, à caractère sexuel…)
 * Troll, Obscénités
 * Spam (plusieurs messages à la suite)
 * Flood (répétitions d'un même caractère : "mdrrrrrrrrrrrr")
-* La Mendicité (demande d'items, argent...)
+* La mendicité (demander des items, prêts d'items, d'argent, etc.).
+* Réaction aux sanctions
 * Il est interdit d'usurper une identité.
 * Le spoil est prohibé
 * L’incitation au spam/flood est également prohibée sur le serveur (cela inclut des évènements de types questions/réponses dans le chat. Les réponses doivent donc être effectuées dans les messages privés de l’organisateur)
-* Les menaces, le harcèlement ainsi que la divulgation d'informations privées sont prohibés sur le serveur.
+* Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées sont interdits sur le serveur.
 
 ### <mark style="color:orange;">Article C : Les différentes plateformes</mark>
 
@@ -200,3 +214,12 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Si vous êtes témoin d'une infraction, n'hésitez pas à prendre un screen.
 * Le screen doit être complet, date, heure, contexte, etc...
 * Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
+
+
+
+En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
+
+Toute sanction sera donnée à l'entière appréciation du staff.
+
+Si vous souhaitez contester une quelconque sanction, merci de [créer un ticket](https://discord.com/channels/994553717556777041/994553719318392841) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
+Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
